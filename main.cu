@@ -1,10 +1,12 @@
-#include <list>
-using namespace std;
-
 #pragma once
-#include "test_tpch_queries/executeQueries.h"
+#include "evaluation/executeQueries.h"
+#include <iostream>
+
 
 int main(){
     auto queries = new executeTpchQueries();
-    queries->call_tpch_query(10);
+    queries->call_tpch_query(6);
+    queries->transfer_time(8);
 }
+
+

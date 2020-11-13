@@ -1,0 +1,4 @@
+/home/gurumurt/Desktop/gpu_libraries_prototype/CMakeFiles/rebuild_cache.dir
+/home/gurumurt/Desktop/gpu_libraries_prototype/CMakeFiles/edit_cache.dir
+/home/gurumurt/Desktop/gpu_libraries_prototype/CMakeFiles/cross_library.dir
+/home/gurumurt/Desktop/gpu_libraries_prototype/CMakeFiles/cross_library_execution.dir
